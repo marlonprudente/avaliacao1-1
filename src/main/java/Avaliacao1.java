@@ -7,7 +7,7 @@ import utfpr.ct.dainf.if62c.avaliacao.Complexo;
  * IF62C - Fundamentos de Programação 2
  * 
  * Primeira avaliação parcial 2014/2.
- * @author 
+ * @author Bruna de Paula Monarin
  */
 public class Avaliacao1 {
 
